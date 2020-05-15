@@ -1,0 +1,5 @@
+cheat code:
+
+press and hold 'c' to stop the snake and wait for the tail to temporarily shorten itself ;)
+
+you will find this helpful to prevent the snake from colliding upon its own tail.
