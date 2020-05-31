@@ -2,4 +2,9 @@
 
 Simple console snake game using C++
 
-Checkout the Cheatbook.txt ;)
+- step into the console snake game folder
+- download that cpp file only. 
+- Compile
+- Run
+- Play
+- Dont forget to checkout the Cheatbook.txt ;)
