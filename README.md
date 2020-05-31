@@ -1,8 +1,8 @@
 # Console-Snake-Game
 
-Simple console snake game using C++
+Simple Console Snake Game using C++
 
-- step into the console snake game folder
+- step into the Console-Snake-Game  folder
 - download that cpp file only. 
 - Compile
 - Run
