@@ -1,10 +1,11 @@
-# Console-Snake-Game
+# Simple Console Snake Game using C++
 
-Simple Console Snake Game using C++
+- Download the Pre-compiled_ConsoleSnakeGame.exe executable.
+- Run & Play!
+- Don't forget to checkout the [Cheatbook.txt](https://github.com/ashuvssut/Console-Snake-Game/blob/master/Console-Snake-Game/Cheatbook%20.txt) ;)
 
-- step into the Console-Snake-Game  folder
-- download that cpp file only. 
-- Compile
-- Run
-- Play
-- Dont forget to checkout the Cheatbook.txt ;)
+## For Dev People
+
+- Step into the Console-Snake-Game folder to find the original cpp code in there.
+  
+***Warning:*** **that cpp code Compiles and runs only on a Windows machine.**
